@@ -6,11 +6,11 @@ As you're evaluating how to best deal with HIPAA you'll probably have some of th
 
 Scanning the list of safeguards required by HIPAA it's not unreasonable to think first of building out the safeguards yourself. Functionality such as unique identifiers for users and automatic logoff are part of any application anyway, so building those is going to happen one way or another. 
 
-Couple that with HIPAA compliant hosting providers, and it's easy to see why a combination of an AWS instance and some best practice application security wouldn't do the trick.
+Couple that with HIPAA compliant hosting providers, and it's easy to draw the conclusion that a combination of an AWS instance and some best practice application security wouldn't do the trick.
 
-Unfortunately, the other pieces of the security rule safeguards aren't as efficient and can take a ton of people-power and time to build out not just the features but the audit and logging functionality as well. 
+Unfortunately, the other pieces of the security rule safeguards aren't as easy to address or maintain and can take a ton of people-power and time to build out not just the features but the audit and logging functionality as well. 
 
-We think this comment from Hacker News sums up the technical debt required to roll your own HIPAA compliant infrastructure quite accurately. This was completely unsolicited and not from a TrueVault customer. 
+We think this comment from Hacker News sums up the technical debt required to roll your own HIPAA compliant infrastructure quite accurately. This was completely unsolicited and is not from a TrueVault customer. 
 
 > 	“[Building our own HIPAA compliant infrastructure] took upwards of 1,000 person-hours to figure out HIPAA-compliance issues. This will continue to be an ongoing cost for us, because HIPAA is an ongoing law 	and it changes sometimes. It takes substantial auditing time and money." — jph
 
@@ -24,7 +24,6 @@ It's not as big of an edge case as you might think. Here's a few examples of how
 
 + Your app to get doctor's advice based on anonymous symptoms could easily have PHI as soon as the patient shares an email address, lab report, or last doctor visit.
 + Your diabetes management app which tracks your blood sugar and prescription information has a note added by the user of their doctor's dosing instructions and pharmacy Rx number.
-+ Your user adds their doctor's office contact information to personal health app to make it easier for them to keep track of their health care providers.
 
 You get the idea. Regardless of how you intend for the user to use your application, there is a pretty decent chance that if the application is related to personal health in any way, PHI will ultimately end up in the system.
 

@@ -14,7 +14,7 @@ As we mentioned under [Developer Considerations](#) a thorough understanding of 
 
 Needless to say, it’s important to consider whether or not your app will be used to store or transmit protected health information, regardless of how you’ve designed it or anticipate it being used. 
 
-Even if you’ve designed your app to collect or use anonymous data that doesn’t fall under HIPAA by itself, if a user chooses to use your app to store or transmit PHI then you are subject to HIPAA compliance requirements. Edge case or not, as soon as PHI is on the device your app falls under HIPAA.
+Even if you’ve designed your app to collect or use anonymous data that doesn’t fall under HIPAA by itself, if a user chooses to use your app to transmit PHI to a doctor then you are subject to HIPAA compliance requirements. Edge case or not, as soon as PHI is involved your app falls under HIPAA.
 
 If your application has the chance to be used to store and transmit PHI it’s a safer bet to be HIPAA compliant to protect yourself from inadvertently violating HIPAA guidelines.
 
@@ -26,7 +26,7 @@ The fact that an individual has received services from a covered entity is itsel
 
 PHI can also include what would otherwise be anonymous information. This includes a date of service i.e. anything more specific than a year.
 
-If you store, collect, manage, or transmit any protected health information then your app needs to be HIPAA compliant.
+If you store, collect, manage, or transmit any protected health information to covered entities then your app needs to be HIPAA compliant.
 
 ## User communication
 
@@ -58,13 +58,13 @@ This goes beyond just mobile push notifications. Any time you’re making an aut
 
 ## Physical phone security
 
-Phones are prone to being stolen, left in the back of cabs, on the table at restaurants and pretty much everywhere else. Because of the natural lack of security of the phone itself you need to ensure that PHI isn't easily accessible to unauthorized users. 
+Phones are prone to being stolen, left in the back of cabs, on the table at restaurants, and pretty much everywhere else. Because of the natural lack of security of the phone itself you need to ensure that PHI isn't easily accessible to unauthorized users. 
 
 Unfortunately, as a mobile app developer, most of this is out of your hands. However you can take a few small steps to help users ensure their PHI is protected if they should lose their phone.
 
 ### Using the lock screen
 
-In order to secure data on an iPhone (for example), users must use a passcode to lock the handset when not in use. You can’t control whether a user enables this functionality; but you can recommend that users who install your app enable the feature. 
+In order to secure data on an iPhone (for example), users must use a passcode to lock the handset when not in use. You can’t control whether a user enables this functionality, but you can recommend that users who install your app enable the feature. 
 
 An easy way to do this is suggest that the user turns on the passcode lock setting in your welcome email to new account holders.
 

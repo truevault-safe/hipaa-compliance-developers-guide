@@ -12,13 +12,15 @@ HIPAA as a law requires that you do the following four things.
 
 2) Reasonably limit use and sharing to the minimum necessary to accomplish your intended purpose.
 
-3) Have agreements in place with service providers that perform covered functions. These agreements (BAAs) ensure that service providers (Business Associates) use, safeguard and disclose patient information properly.
+3) Have agreements in place with service providers that perform covered functions. These Business Associate Agreements (BAAs) ensure that service providers (Business Associates) use, safeguard and disclose patient information properly.
 
 4) Procedures to limit who can access patient health information, and training programs about how to protect patient health information.
 
 ## What it means for developers
 
-If you're building an application that has any reasonable likelihood of collecting, storing or transmitting PHI you should be HIPAA compliant. 
+If you are collecting, storing or transmitting PHI to a covered entity then you definitely should be HIPAA compliant.
+
+If you're building an application that has any reasonable likelihood of collecting, storing or transmitting PHI you should probably be HIPAA compliant.  
 
 Your non-technical team or (co-founder, depending on your size) should worry about the administrative compliance issues. As the developer you should focus both on the physical and technical aspects of the law.
 

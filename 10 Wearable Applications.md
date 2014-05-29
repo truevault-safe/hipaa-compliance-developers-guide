@@ -2,7 +2,7 @@
 
 Wearables are popping up left and right. From bands, to watches, to shirts, earbuds and more. All of these devices have the opportunity to collect PHI and require HIPAA compliance. While many will choose to initially collect anonymous data that doesn't require HIPAA protection, the need to add true utility to the devices will likely push many of them down the road to compliance.
 
-As an application developer for wearables it's important to consider whether the data you're collecting now will remain anonymous (such as a simple pedometer report) or if you're building something more ambitious that requires a larger set of personalized data (PHI). 
+As an application developer for wearables it's important to consider whether the data you're collecting now will remain anonymous (such as a simple pedometer report) or if you're building something more ambitious that requires a larger set of personalized data that will be transmitted to HIPAA covered entities (PHI). 
 
 If it is the latter, you're likely better off building the software for the wearable in a HIPAA compliant environment to begin with, to protect against unforeseen use cases, unexpected PHI, etc.
 
@@ -27,6 +27,14 @@ For example, heart rate isn't really an anonymous data point when it's being tra
 One of the most exciting aspects of wearables may be in patient health management and compliance (e.g. does the patient get their exercise in per the doctor's orders?) In order for these apps to be used efficiently in this use case they need to talk seamlessly with the applications and software being run by covered entities. 
 
 Covered entities and their business associates are required by law to be HIPAA compliant, so any application hoping to connect to one of these entities as part of patient care must be HIPAA compliant. 
+
+### Medical devices
+
+It is possible, based on the features and functionality that you include in your application or wearable device that it may actually be classified as a medical device. It’s important to look up FDA regulations and check whether your app will be considered to be a medical device or not. 
+
+If it does fall under those definitions it may require FDA approval which brings with it a whole host of further regulations.
+
+Don’t launch your app until you’ve determined whether or not you are safely outside the FDA’s medical device classification.
 
 ### Data encryption
 

@@ -24,7 +24,9 @@ Like the four horsemen, these are the major pieces that govern what you do and h
 + HIPAA Privacy Rule
 + HIPAA Security Rule
 + HIPAA Enforcement Rule
-+ HIPAA Breach Notification Rule 
++ HIPAA Breach Notification Rule
+
+
 **Developers need to focus on the Technical and Physical safeguards outlined in the Security Rule.**
 
 ## Important terms to know
@@ -55,11 +57,11 @@ Examples of non-PHI data:
 
 ### The Difference Between Protected Health Information and Consumer Health Information
 
-So how do you know if you’re dealing with protected health information (PHI) or consumer health information? The test is pretty simple: if your device or application stores, records or transmits the user’s personally-identifiable health data held in the app or device then you are dealing with protected health information and need to be HIPAA compliant.
+So how do you know if you’re dealing with protected health information (PHI) or consumer health information? The test is pretty simple: if your device or application stores, records or transmits the user’s personally-identifiable health data held in the app or device to a covered entity (see below) then you are dealing with protected health information and need to be HIPAA compliant.
 
-If you are building a wearable device or application that collects the anonymous health information, but do not plan on sharing it with a covered entity such as a doctor at any point in time then you do not need to be HIPAA compliant. 
+If you are building a wearable device or application that collects health information, but does not plan on sharing it with a covered entity at any point in time then you do not need to be HIPAA compliant. 
 
-For example, the Nike Fuelband is not HIPAA compliant because it does not track data considered protected health information nor allow data transmission from the device to a covered entity. 
+For example, the Nike Fuel Band is not HIPAA compliant because it does not track data considered protected health information because you can't transmit that data from the device to a covered entity. 
 
 ### Covered Entity
 
@@ -99,7 +101,7 @@ If a Covered Entity (customer) sends PHI through a vendor, and the vendor’s se
 
 Unlike other laws (DMCA anyone?) there is no "safe harbor" here. Just because you don't want to handle PHI doesn't opt you out of HIPAA compliance requirements. 
 
-Further, just refusing to sign a business associate agreement doesn't absolve you of the provisions of HIPAA compliance should your services handle PHI (intentionally or not) in any way. 
+Further, just refusing to sign a Business Associate Agreement doesn't absolve you of the provisions of HIPAA compliance should your services handle PHI (intentionally or not) in any way. 
 
 Here are some examples of potential Business Associates:
 
