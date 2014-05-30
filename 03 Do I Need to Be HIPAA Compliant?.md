@@ -4,15 +4,15 @@ This is the most important question you can ask, because HIPAA violations can re
 
 **If you handle, store or transmit protected health information (PHI) to or from a covered entity then you need to be HIPAA compliant.** 
 
-If you skipped straight here and don't know what PHI is, read [this part of the guide](https://github.com/truevault/hipaa-compliance-developers-guide/blob/master/02%20What%20is%20HIPAA%3F.md).
+If you skipped straight here and don't know what PHI is, read [this part of the guide](https://github.com/truevault/hipaa-compliance-developers-guide/blob/master/02%20What%20is%20HIPAA%3F.md#protected-health-information-phi).
 
 ## Who needs to be HIPAA compliant?
 
 The short answer is that the HIPAA rules apply to both Covered Entities and their Business Associates. [HHS.gov](http://HHS.gov) 
 
-[What's a Covered Entity?](https://github.com/truevault/hipaa-compliance-developers-guide/blob/master/02%20What%20is%20HIPAA%3F.md)
+[What's a Covered Entity?](https://github.com/truevault/hipaa-compliance-developers-guide/blob/master/02%20What%20is%20HIPAA%3F.md#covered-entity)
 
-[Who is considered a Business Associate?](https://github.com/truevault/hipaa-compliance-developers-guide/blob/master/02%20What%20is%20HIPAA%3F.md)
+[Who is considered a Business Associate?](https://github.com/truevault/hipaa-compliance-developers-guide/blob/master/02%20What%20is%20HIPAA%3F.md#business-associate)
 
 #### Navigation
 
