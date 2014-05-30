@@ -18,3 +18,6 @@ They will tell you that the Texas state law protecting patients' health informat
 
 Don’t hold us to that because HHS does not endorse or otherwise recognize this claim. But, considering the absence of a federal seal of approval, this is a fantastic program and a step in the right direction.
 
+#### Navigation
+
+[Chapter 5: Becoming HIPAA Compliant](https://github.com/truevault/hipaa-compliance-developers-guide/blob/master/05%20Becoming%20HIPAA%20Compliant.md) | [Chapter 7: HIPAA Fines](https://github.com/truevault/hipaa-compliance-developers-guide/blob/master/07%20HIPAA%20Fines.md)

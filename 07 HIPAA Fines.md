@@ -41,3 +41,7 @@ Looking at this chart we can conclude that HHS does not like people storing unen
 If these fines make you nervous, then this might be a good time to revisit your decision about whether your application needs to be HIPAA compliant or not.
 
 The good news is that not every PHI breach ends in a fine. If you can show that you have made a reasonable effort to comply with HIPAA then you may not be dinged.
+
+#### Navigation
+
+[Chapter 6: Who Certifies HIPAA Compliance](https://github.com/truevault/hipaa-compliance-developers-guide/blob/master/06%20Who%20Certifies%20HIPAA%20Compliance%3F.md) | [Chapter 8: Developer Considerations](https://github.com/truevault/hipaa-compliance-developers-guide/blob/master/08%20Developer%20Considerations.md)

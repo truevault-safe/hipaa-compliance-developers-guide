@@ -72,3 +72,7 @@ An easy way to do this is suggest that the user turns on the passcode lock setti
 
 Again, not something you can control yourself, but as in the example above you can help users make their phones more secure by taking advantage of some of the built-in functionality of their device.
 
+#### Navigation
+
+[Chapter 8: Developer Considerations](https://github.com/truevault/hipaa-compliance-developers-guide/blob/master/08%20Developer%20Considerations.md) | [Chapter 10: Wearable Applications](https://github.com/truevault/hipaa-compliance-developers-guide/blob/master/10%20Wearable%20Applications.md)
+

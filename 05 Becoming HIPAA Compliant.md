@@ -33,3 +33,7 @@ Your non-technical team or (co-founder, depending on your size) should worry abo
 ## If we're being honest
 
 It's not worth taking the risk of HIPAA compliance audits and penalties if you have even a small chance of managing PHI within your application. 
+
+#### Navigation
+
+[Chapter 4: HIPAA Security Rule](https://github.com/truevault/hipaa-compliance-developers-guide/blob/master/04%20HIPAA%20Security%20Rule.md) | [Chapter 6: Who Certifies HIPAA Compliance](https://github.com/truevault/hipaa-compliance-developers-guide/blob/master/06%20Who%20Certifies%20HIPAA%20Compliance%3F.md)

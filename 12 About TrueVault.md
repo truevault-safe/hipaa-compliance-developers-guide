@@ -36,3 +36,7 @@ We have a free, no credit card required trial that lasts as long as you like. Yo
 Once live, pricing is pay-as-you-go, just $0.001 per API call. See [pricing examples here](https://www.truevault.com/pricing.html).  
 
 [Try TrueVault today](https://www.truevault.com/)
+
+#### Navigation
+
+[Chapter 11:Apple Healthbook and iOS 8](https://github.com/truevault/hipaa-compliance-developers-guide/blob/master/11%20Apple%20Healthbook%20and%20iOS%208.md) | [Introduction](https://github.com/truevault/hipaa-compliance-developers-guide/blob/master/01%20Introduction.md)

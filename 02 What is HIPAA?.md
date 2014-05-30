@@ -122,3 +122,7 @@ In contrast, these folks are NOT Business Associates:
 + Covered Entity’s Workforce
 + Individuals or companies with very limited and incidental exposure to health information, such as a telephone company, electrician, etc.
 + Companies that act as a conduit for PHI, such as the postal service, UPS, private couriers, etc.
+
+#### Navigation
+
+[Introduction](https://github.com/truevault/hipaa-compliance-developers-guide/blob/master/01%20Introduction.md) | [Chapter 3: Do I Need to Be HIPAA Compliant?](https://github.com/truevault/hipaa-compliance-developers-guide/blob/master/03%20Do%20I%20Need%20to%20Be%20HIPAA%20Compliant%3F.md)

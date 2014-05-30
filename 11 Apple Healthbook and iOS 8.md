@@ -19,3 +19,7 @@ If you're planning on building a health-related app for iOS 8 and/or Healthbook,
 ## iOS 8 health-related announcements
 
 ## Apple Healthbook announcements
+
+#### Navigation
+
+[Chapter 10: Wearable Applications](https://github.com/truevault/hipaa-compliance-developers-guide/blob/master/10%20Wearable%20Applications.md) | [Chapter 12: About TrueVault](https://github.com/truevault/hipaa-compliance-developers-guide/blob/master/12%20About%20TrueVault.md)

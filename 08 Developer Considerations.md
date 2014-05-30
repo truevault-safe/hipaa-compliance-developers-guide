@@ -47,16 +47,20 @@ You are still required to meet the administrative and technical specifications o
 
 Not all of your application data needs to exist in a HIPAA hosting environment. But any PHI must be in a HIPAA compliant environment. 
 
-[Examples of PHI](#)
+[Examples of PHI](https://github.com/truevault/hipaa-compliance-developers-guide/blob/master/02%20What%20is%20HIPAA%3F.md#protected-health-information-phi)
 
 ### What Makes a Hosting Environment HIPAA Compliant?
 
 HIPAA compliant hosting providers typically provide two main aspects of HIPAA compliance:
 
-They sign a Business Associate Agreement with you, which is required by service providers managing and handling HIPAA protected information. [Learn more about Business Associate Agreements](#).
+They sign a Business Associate Agreement with you, which is required by service providers managing and handling HIPAA protected information. [Learn more about Business Associate Agreements](https://github.com/truevault/hipaa-compliance-developers-guide/blob/master/02%20What%20is%20HIPAA%3F.md#business-associate).
 
-They address many of the Physical Safeguard requirements of the HIPAA Security rule. [See a complete list of physical safeguards](#).
+They address many of the Physical Safeguard requirements of the HIPAA Security rule. [See a complete list of physical safeguards](https://github.com/truevault/hipaa-compliance-developers-guide/blob/master/04%20HIPAA%20Security%20Rule.md#physical-safeguards).
 
 ### Required vs. Addressable HIPAA Implementation Specifications
 
-We've talked about the [difference between required and addressable specifications](#) already, but most HIPAA hosting companies should implement the addressable specifications as they are best practice data security features any way.
+We've talked about the [difference between required and addressable specifications](https://github.com/truevault/hipaa-compliance-developers-guide/blob/master/04%20HIPAA%20Security%20Rule.md#required-vs-addressable-specifications) already, but most HIPAA hosting companies should implement the addressable specifications as they are best practice data security features any way.
+
+#### Navigation
+
+[Chapter 7: HIPAA Fines](https://github.com/truevault/hipaa-compliance-developers-guide/blob/master/07%20HIPAA%20Fines.md) | [Chapter 9: Mobile Applications](https://github.com/truevault/hipaa-compliance-developers-guide/blob/master/09%20Mobile%20Applications.md)

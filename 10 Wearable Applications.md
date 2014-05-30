@@ -45,3 +45,8 @@ Because most wearables lack a user interface to add or manage security features 
 HIPAA requires that data recovery be possible in the event of a disaster or emergency. Therefore, depending on the device you are developing for, you may want to take advantage of proactive synching features instead of waiting for the user to synch the device themselves.
 
 If the device enables background synching over bluetooth or while connected to the main device it's recommended that you take advantage of that opportunity to synch your user's data automatically. 
+
+#### Navigation
+
+[Chapter 9: Mobile Applications](https://github.com/truevault/hipaa-compliance-developers-guide/blob/master/09%20Mobile%20Applications.md) | [Chapter 11: Apple Healthbook and iOS 8](https://github.com/truevault/hipaa-compliance-developers-guide/blob/master/11%20Apple%20Healthbook%20and%20iOS%208.md)
+

@@ -82,3 +82,7 @@ Addressable implementation specifications must be implemented if it is reasonabl
 It is important to remember that an addressable implementation specification is not optional. 
 
 **When in doubt, you should just implement the addressable implementation specifications. Most of them are best practices anyway.**
+
+#### Navigation
+
+[Chapter 3: Do I Need to Be HIPAA Compliant?](https://github.com/truevault/hipaa-compliance-developers-guide/blob/master/03%20Do%20I%20Need%20to%20Be%20HIPAA%20Compliant%3F.md) | [Chapter 5: Becoming HIPAA Compliant](https://github.com/truevault/hipaa-compliance-developers-guide/blob/master/05%20Becoming%20HIPAA%20Compliant.md)

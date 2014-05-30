@@ -30,3 +30,5 @@ Feel free to leave comments directly here. We'll be monitoring and responding to
 We're software developers just like you, but we've spent countless hours researching, studying and learning the ins and outs of HIPAA compliance. We've worked with industry experts and attorneys to understand the various portion of the law. In short, we think we have a solid handle on it. 
 
 However, we need to be clear—we're not lawyers and you should not take this as legal advice. If you need to make business decisions around HIPAA you'll probably sleep better at night knowing you paid a very expensive attorney to give their opinion on your specific question. 
+
+[Chapter 2: What is HIPAA?](https://github.com/truevault/hipaa-compliance-developers-guide/blob/master/01%20Introduction.md)
