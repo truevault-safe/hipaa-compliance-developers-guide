@@ -31,4 +31,6 @@ We're software developers just like you, but we've spent countless hours researc
 
 However, we need to be clear—we're not lawyers and you should not take this as legal advice. If you need to make business decisions around HIPAA you'll probably sleep better at night knowing you paid a very expensive attorney to give their opinion on your specific question. 
 
-[Chapter 2: What is HIPAA?](https://github.com/truevault/hipaa-compliance-developers-guide/blob/master/01%20Introduction.md)
+#### Navigation
+
+[Chapter 2: What is HIPAA?](https://github.com/truevault/hipaa-compliance-developers-guide/blob/master/02%20What%20is%20HIPAA%3F.md)

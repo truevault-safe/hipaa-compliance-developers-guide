@@ -8,12 +8,12 @@ The fines and charges are broken down into 2 major categories: “Reasonable Cau
 
 **HIPAA violation categories and their respective penalty amounts are outlined in the chart below:**
 
-[insert image]
+![hipaa violations summary](https://dg80atg7s3qsy.cloudfront.net/blog/img/hipaa-violations.png)
 
 Source: HHS, Federal Register.gov
 
 ## Unencrypted Data
-While encryption is an addressable (rather than required) specification, it does not mean optional. The vast majority of data breaches are due to stolen or lost data that was unencrypted. When in doubt, you should implement the [addressable implementation specifications](#) of the Security Rule. Most of them are best practices.
+While encryption is an addressable (rather than required) specification, it does not mean optional. The vast majority of data breaches are due to stolen or lost data that was unencrypted. When in doubt, you should implement the [addressable implementation specifications](https://github.com/truevault/hipaa-compliance-developers-guide/blob/master/04%20HIPAA%20Security%20Rule.md#required-vs-addressable-specifications) of the Security Rule. Most of them are best practices.
 
 ## Employee Error
 Breaches can occur when employees lose unencrypted portable devices, mistakenly send PHI to vendors who post that information online, and disclose personally identifiable, sensitive information on social networks. 
@@ -30,7 +30,7 @@ Some of the largest breaches reported to HHS have involved business associates. 
 
 **What sort of penalties are we talking about? Check out this chart with fines levied in years past:**
 
-[insert image]
+![hipaa fines table](https://dg80atg7s3qsy.cloudfront.net/blog/img/hipaa-fines.png)
 
 Source: HHS, Case Examples and Resolution Agreements
 
