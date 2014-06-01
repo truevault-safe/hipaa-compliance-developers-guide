@@ -57,6 +57,14 @@ They sign a Business Associate Agreement with you, which is required by service 
 
 They address many of the Physical Safeguard requirements of the HIPAA Security rule. [See a complete list of physical safeguards](https://github.com/truevault/hipaa-compliance-developers-guide/blob/master/04%20HIPAA%20Security%20Rule.md#physical-safeguards).
 
+### Network and application security
+
+Ensuring your hosting environment is HIPAA compliant is only the first step. You must also implement network and application security best practices to protect your hosting environment. According to a recent [Information Week article](http://www.informationweek.com/healthcare/security-and-privacy/healthcare-it-security-worse-than-retail-study-says/d/d-id/1269207), each health record could be worth as much as $20 on the black market. So it's easy to imagine hackers would try to breach your servers when your application becomes popular. 
+
+### High-Availability and redundancy
+
+A good infrastructure design eliminates all single-point-of-failures. While running one web server and one database server may save you money in the short run, how much would it cost your business if that one web server goes offline causing the entire hosting environment to crumple? It is best to design your hosting environment with at least 2 web servers behind a load balancer and 2 database servers on a active/passive failover setup. Clearly most environments are more complicated than just a 2-tier setup so you must implement an infrastructure design best suited for your business.
+
 ### Required vs. Addressable HIPAA Implementation Specifications
 
 We've talked about the [difference between required and addressable specifications](https://github.com/truevault/hipaa-compliance-developers-guide/blob/master/04%20HIPAA%20Security%20Rule.md#required-vs-addressable-specifications) already, but most HIPAA hosting companies should implement the addressable specifications as they are best practice data security features any way.
