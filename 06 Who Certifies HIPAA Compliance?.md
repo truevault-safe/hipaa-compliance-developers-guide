@@ -1,6 +1,6 @@
 # Who certifies HIPAA compliance?
 
-**The short answer is no one.**
+## The short answer is no one.
 
 Unlike PCI, there is no one that can “certify” that an organization is HIPAA compliant. The Office for Civil Rights (OCR) from the Department of Health and Human Services (HHS) is the federal governing body that determines compliance. HHS does not endorse or recognize the “certifications” made by private organizations.
 
