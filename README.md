@@ -89,7 +89,7 @@ This guide will give you enough information to give you a strong understanding o
 ++ [Enabling Remote Wiping of Lost Phones](https://github.com/truevault/hipaa-compliance-developers-guide/blob/master/09%20Mobile%20Applications.md#enabling-remote-wiping-of-lost-phones)
 
 10 — [Wearable Applications](https://github.com/truevault/hipaa-compliance-developers-guide/blob/master/10%20Wearable%20Applications.md)
-+ [Considerations for Wearables](https://github.com/truevault/hipaa-compliance-developers-guide/blob/master/10%20Wearable%20Applications.md#considerations-for-wearables)
++ 	[Considerations for Wearables](https://github.com/truevault/hipaa-compliance-developers-guide/blob/master/10%20Wearable%20Applications.md#considerations-for-wearables)
 ++ [Alerts and Notifications](https://github.com/truevault/hipaa-compliance-developers-guide/blob/master/10%20Wearable%20Applications.md#alerts-and-notifications)
 ++ [Default Displays](https://github.com/truevault/hipaa-compliance-developers-guide/blob/master/10%20Wearable%20Applications.md#default-displays)
 ++ [APIs and Data Sharing](https://github.com/truevault/hipaa-compliance-developers-guide/blob/master/10%20Wearable%20Applications.md#apis-and-data-sharing)
