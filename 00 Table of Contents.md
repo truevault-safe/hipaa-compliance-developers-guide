@@ -96,5 +96,3 @@
 + [Wearable Health Tech Devices](https://github.com/truevault/hipaa-compliance-developers-guide/blob/master/12%20About%20TrueVault.md#wearable-health-tech-devices)
 + [Why People Like TrueVault](https://github.com/truevault/hipaa-compliance-developers-guide/blob/master/12%20About%20TrueVault.md#why-people-like-truevault)
 + [Try TrueVault for Free](https://github.com/truevault/hipaa-compliance-developers-guide/blob/master/12%20About%20TrueVault.md#try-truevault-for-free)
-
-
