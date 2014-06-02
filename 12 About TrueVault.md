@@ -39,4 +39,4 @@ Once live, pricing is pay-as-you-go, just $0.001 per API call. See [pricing exam
 
 #### Navigation
 
-[Chapter 11:Apple Healthbook and iOS 8](https://github.com/truevault/hipaa-compliance-developers-guide/blob/master/11%20Apple%20Healthbook%20and%20iOS%208.md) | [Introduction](https://github.com/truevault/hipaa-compliance-developers-guide/blob/master/01%20Introduction.md)
+[Chapter 11:Apple HealthKit and iOS 8](https://github.com/truevault/hipaa-compliance-developers-guide/blob/master/11%20Apple%20HealthKit%20and%20iOS%208.md) | [Introduction](https://github.com/truevault/hipaa-compliance-developers-guide/blob/master/01%20Introduction.md)

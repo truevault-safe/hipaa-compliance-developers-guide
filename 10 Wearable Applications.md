@@ -48,5 +48,5 @@ If the device enables background synching over bluetooth or while connected to t
 
 #### Navigation
 
-[Chapter 9: Mobile Applications](https://github.com/truevault/hipaa-compliance-developers-guide/blob/master/09%20Mobile%20Applications.md) | [Chapter 11: Apple Healthbook and iOS 8](https://github.com/truevault/hipaa-compliance-developers-guide/blob/master/11%20Apple%20Healthbook%20and%20iOS%208.md)
+[Chapter 9: Mobile Applications](https://github.com/truevault/hipaa-compliance-developers-guide/blob/master/09%20Mobile%20Applications.md) | [Chapter 11: Apple HealthKit and iOS 8](https://github.com/truevault/hipaa-compliance-developers-guide/blob/master/11%20Apple%20HealthKit%20and%20iOS%208.md)
 

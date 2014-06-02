@@ -97,10 +97,10 @@ This guide will give you enough information to give you a strong understanding o
   + [Data Encryption](https://github.com/truevault/hipaa-compliance-developers-guide/blob/master/10%20Wearable%20Applications.md#data-encryption)
   + [Data Synching](https://github.com/truevault/hipaa-compliance-developers-guide/blob/master/10%20Wearable%20Applications.md#data-synching)
 
-11 — [Apple HealthKit and iOS 8](https://github.com/truevault/hipaa-compliance-developers-guide/blob/master/11%20Apple%20Healthbook%20and%20iOS%208.md)
-+ [TrueVault iOS 8 SDK](https://github.com/truevault/hipaa-compliance-developers-guide/blob/master/11%20Apple%20Healthbook%20and%20iOS%208.md#truevault-ios-8-sdk)
-+ [iOS 8 Health-Related Announcements](https://github.com/truevault/hipaa-compliance-developers-guide/blob/master/11%20Apple%20Healthbook%20and%20iOS%208.md#ios-8-health-related-announcements)
-+ [Apple HealthKit Announcements](https://github.com/truevault/hipaa-compliance-developers-guide/blob/master/11%20Apple%20Healthbook%20and%20iOS%208.md#apple-healthbook-announcements)
+11 — [Apple HealthKit and iOS 8](https://github.com/truevault/hipaa-compliance-developers-guide/blob/master/11%20Apple%20HealthKit%20and%20iOS%208.md)
++ [TrueVault iOS 8 SDK](https://github.com/truevault/hipaa-compliance-developers-guide/blob/master/11%20Apple%20HealthKit%20and%20iOS%208.md#truevault-ios-8-sdk)
++ [iOS 8 Health-Related Announcements](https://github.com/truevault/hipaa-compliance-developers-guide/blob/master/11%20Apple%20HealthKit%20and%20iOS%208.md#ios-8-health-related-announcements)
++ [Apple HealthKit Announcements](https://github.com/truevault/hipaa-compliance-developers-guide/blob/master/11%20Apple%20HealthKit%20and%20iOS%208.md#apple-healthkit-announcements)
 
 12 — [About TrueVault](https://github.com/truevault/hipaa-compliance-developers-guide/blob/master/12%20About%20TrueVault.md)
 + [Built for Developers Like You](https://github.com/truevault/hipaa-compliance-developers-guide/blob/master/12%20About%20TrueVault.md#built-for-developers-like-you)
