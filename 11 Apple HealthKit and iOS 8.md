@@ -17,6 +17,7 @@ If you're planning on building a health-related app for iOS 8 and/or HealthKit, 
 ## Apple HealthKit announcements
 
 + [Apple Announces HealthKit + Health App](https://github.com/truevault/hipaa-compliance-developers-guide/blob/master/11%20Apple%20HealthKit%20and%20iOS%208.md)
++  [HealthKit API/Fit Sample App Code - Apple Developer Library](https://developer.apple.com/library/prerelease/ios/samplecode/Fit/Introduction/Intro.html)
 
 #### Navigation
 
