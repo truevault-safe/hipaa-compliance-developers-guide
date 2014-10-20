@@ -4,7 +4,7 @@ Apple is reportedly set to announce iOS 8 as part of their World Wide Developers
 
 HealthKit, from early reports, appears to be similar to Passbook, an application that lets users manage things like airline boarding passes, concert tickets, and more via the app. Select apps and partners, such as United Airlines and Eventbrite, are able to push their application data into Passbook for use there. 
 
-(Learn more about HealthKit and Health.](http://www.theverge.com/2014/6/2/5772074/apple-healthkit-ios-8-announcement)
+[Learn more about HealthKit and Health.](http://www.theverge.com/2014/6/2/5772074/apple-healthkit-ios-8-announcement)
 
 ## TrueVault iOS 8 SDK
 
