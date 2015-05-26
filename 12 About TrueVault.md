@@ -1,6 +1,6 @@
 # About TrueVault
 
-TrueVault is a secure API to store health data. We make HIPAA compliance easier for healthcare applications. 
+TrueVault is a secure API to store health data. We make HIPAA compliance easier for healthcare applications.
 
 ## Built for Developers Like You
 Store and search protected health information (PHI) in any file format with a simple RESTful API. No pre-defined schemas to follow.
@@ -31,9 +31,7 @@ Emerging technology dances the line between consumer health data and PHI. Sharin
 
 ## Try TrueVault for free
 
-We have a free, no credit card required trial that lasts as long as you like. You can develop on it at no cost. Only pay when you activate your account by signing our business associate agreement. 
-
-Once live, pricing is pay-as-you-go, just $0.001 per API call. See [pricing examples here](https://www.truevault.com/pricing.html).  
+TrueVault offers a 45 day free trial that you can use to become familiar with our services and support. Once an account has been activated, you will have the option to execute a Business Associate Agreement with us. See our [pricing page](https://www.truevault.com/pricing.html) for more information.
 
 [Try TrueVault today](https://www.truevault.com/)
 
