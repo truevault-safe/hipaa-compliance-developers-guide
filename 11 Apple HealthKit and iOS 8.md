@@ -6,12 +6,6 @@ HealthKit, from early reports, appears to be similar to Passbook, an application
 
 [Learn more about HealthKit and Health.](http://www.theverge.com/2014/6/2/5772074/apple-healthkit-ios-8-announcement)
 
-## TrueVault iOS 8 SDK
-
-In anticipation of the new health-related features for iOS 8 and HealthKit, TrueVault is gearing up to being development on an SDK for iOS 8 in order to launch it in time with the developer release of iOS 8 this summer. 
-
-If you're planning on building a health-related app for iOS 8 and/or HealthKit, you can [sign up to be notified](http://go.truevault.com/ios8/) when the TrueVault SDK launches.
-
 ## iOS 8 health-related announcements
 
 ## Apple HealthKit announcements
