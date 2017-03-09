@@ -8,7 +8,7 @@ HIPAA sets the standard for protecting sensitive patient data. The law states th
  
 Developed in 1996 HIPAA was initially created to help the public with insurance portability. Back in the day you couldn't easily switch insurances if you didn't like the coverage or doctors that provided services under that insurance. It was a huge pain getting your medical records from one practitioner to another.
 
-Along with portability came privacy concerns, to the law makers built in a series of privacy tools and requirements to protect healthcare data.
+Along with portability came privacy concerns, so the law makers built in a series of privacy tools and requirements to protect healthcare data.
 
 ## 2013 Final Omnibus Rule Update 
 In September of 2013, the [Final Omnibus Rule Update](http://en.wikipedia.org/wiki/Health_Insurance_Portability_and_Accountability_Act#cite_note-33) was passed that amended HIPAA and greatly expanded the definition of who needed to be HIPAA compliant. Previously, only covered entities (such as doctors, hospitals, and insurers) were required to be HIPAA compliant. 
