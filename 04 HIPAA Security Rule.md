@@ -51,7 +51,7 @@ While there are both required and addressable elements to these safeguards you s
 + Audit Controls (required): Implement hardware, software, and/or procedural mechanisms that record and examine activity in information systems that contain or use ePHI.
 + Mechanism to Authenticate ePHI (addressable): Implement electronic mechanisms to corroborate that ePHI has not been altered or destroyed in an unauthorized manner.
 
-For more information, see [Technical Safeguards](http://www.hhs.gov/ocr/privacy/hipaa/administrative/securityrule/techsafeguards.pdf) from the [HIPAA Security Rule Educational Paper Series](http://www.hhs.gov/ocr/privacy/hipaa/administrative/securityrule/securityruleguidance.html)
+For more information, see [Technical Safeguards](https://www.hhs.gov/sites/default/files/ocr/privacy/hipaa/administrative/securityrule/techsafeguards.pdf?language=es) from the [HIPAA Security Rule Educational Paper Series](http://www.hhs.gov/ocr/privacy/hipaa/administrative/securityrule/securityruleguidance.html)
 
 ### Physical Safeguards
 
@@ -78,7 +78,7 @@ Other parts of the Physical Safeguards are handled by your internal rules around
 + Workstation Security (required): Implement physical safeguards for all workstations that access ePHI, to restrict access to authorized users.
 + Workstation Use (required): Implement policies and procedures that specify the proper functions to be performed, the manner in which those functions are to be performed, and the physical attributes of the surroundings of a specific workstation or class of workstation that can access ePHI.
 
-For more information, see [Physical Safeguards](http://www.hhs.gov/ocr/privacy/hipaa/administrative/securityrule/physsafeguards.pdf) from the [HIPAA Security Rule Educational Paper Series](http://www.hhs.gov/ocr/privacy/hipaa/administrative/securityrule/securityruleguidance.html)
+For more information, see [Physical Safeguards](https://www.hhs.gov/sites/default/files/ocr/privacy/hipaa/administrative/securityrule/physsafeguards.pdf?language=es) from the [HIPAA Security Rule Educational Paper Series](http://www.hhs.gov/ocr/privacy/hipaa/administrative/securityrule/securityruleguidance.html)
 
 ## Required vs. addressable specifications
 
