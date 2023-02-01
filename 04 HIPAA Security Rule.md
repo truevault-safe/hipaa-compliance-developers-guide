@@ -24,7 +24,7 @@ Companies like [Accountable](http://accountablehq.com) can help with the adminis
 + Compliance Helper -- http://www.compliancehelper.com
 + Compliancy Group -- http://compliancy-group.com
  
-For more information, see [Administrative Safeguards](http://www.hhs.gov/ocr/privacy/hipaa/administrative/securityrule/adminsafeguards.pdf) from the [HIPAA Security Rule Educational Paper Series](http://www.hhs.gov/ocr/privacy/hipaa/administrative/securityrule/securityruleguidance.html)
+For more information, see [Administrative Safeguards](https://www.hhs.gov/sites/default/files/ocr/privacy/hipaa/administrative/securityrule/adminsafeguards.pdf?language=es) from the [HIPAA Security Rule Educational Paper Series](http://www.hhs.gov/ocr/privacy/hipaa/administrative/securityrule/securityruleguidance.html)
 
 
 ### Technical Safeguards
